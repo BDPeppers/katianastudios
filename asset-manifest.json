@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/katianastudios/static/css/main.764ac2ce.chunk.css",
+    "main.js": "/katianastudios/static/js/main.36ff47ec.chunk.js",
+    "main.js.map": "/katianastudios/static/js/main.36ff47ec.chunk.js.map",
+    "runtime-main.js": "/katianastudios/static/js/runtime-main.6c248946.js",
+    "runtime-main.js.map": "/katianastudios/static/js/runtime-main.6c248946.js.map",
+    "static/css/2.616d3657.chunk.css": "/katianastudios/static/css/2.616d3657.chunk.css",
+    "static/js/2.890f9c85.chunk.js": "/katianastudios/static/js/2.890f9c85.chunk.js",
+    "static/js/2.890f9c85.chunk.js.map": "/katianastudios/static/js/2.890f9c85.chunk.js.map",
+    "index.html": "/katianastudios/index.html",
+    "precache-manifest.b467fa103e268b9de726af7cc9b1f000.js": "/katianastudios/precache-manifest.b467fa103e268b9de726af7cc9b1f000.js",
+    "service-worker.js": "/katianastudios/service-worker.js",
+    "static/css/2.616d3657.chunk.css.map": "/katianastudios/static/css/2.616d3657.chunk.css.map",
+    "static/css/main.764ac2ce.chunk.css.map": "/katianastudios/static/css/main.764ac2ce.chunk.css.map",
+    "static/js/2.890f9c85.chunk.js.LICENSE.txt": "/katianastudios/static/js/2.890f9c85.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/katianastudios/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/blush.PNG": "/katianastudios/static/media/blush.cd84e77f.PNG",
+    "static/media/all.min.css": "/katianastudios/static/media/fa-solid-900.ec763292.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c248946.js",
+    "static/css/2.616d3657.chunk.css",
+    "static/js/2.890f9c85.chunk.js",
+    "static/css/main.764ac2ce.chunk.css",
+    "static/js/main.36ff47ec.chunk.js"
+  ]
+}
