@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/katianastudios/static/css/main.764ac2ce.chunk.css",
-    "main.js": "/katianastudios/static/js/main.36ff47ec.chunk.js",
-    "main.js.map": "/katianastudios/static/js/main.36ff47ec.chunk.js.map",
+    "main.js": "/katianastudios/static/js/main.6929a2ed.chunk.js",
+    "main.js.map": "/katianastudios/static/js/main.6929a2ed.chunk.js.map",
     "runtime-main.js": "/katianastudios/static/js/runtime-main.6c248946.js",
     "runtime-main.js.map": "/katianastudios/static/js/runtime-main.6c248946.js.map",
     "static/css/2.616d3657.chunk.css": "/katianastudios/static/css/2.616d3657.chunk.css",
     "static/js/2.890f9c85.chunk.js": "/katianastudios/static/js/2.890f9c85.chunk.js",
     "static/js/2.890f9c85.chunk.js.map": "/katianastudios/static/js/2.890f9c85.chunk.js.map",
     "index.html": "/katianastudios/index.html",
-    "precache-manifest.b467fa103e268b9de726af7cc9b1f000.js": "/katianastudios/precache-manifest.b467fa103e268b9de726af7cc9b1f000.js",
+    "precache-manifest.f8c2874ef451f0511d78da4a3a5a6d79.js": "/katianastudios/precache-manifest.f8c2874ef451f0511d78da4a3a5a6d79.js",
     "service-worker.js": "/katianastudios/service-worker.js",
     "static/css/2.616d3657.chunk.css.map": "/katianastudios/static/css/2.616d3657.chunk.css.map",
     "static/css/main.764ac2ce.chunk.css.map": "/katianastudios/static/css/main.764ac2ce.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.616d3657.chunk.css",
     "static/js/2.890f9c85.chunk.js",
     "static/css/main.764ac2ce.chunk.css",
-    "static/js/main.36ff47ec.chunk.js"
+    "static/js/main.6929a2ed.chunk.js"
   ]
 }

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "32dedbf0386f435b8f0aac4ed63035e7",
+    "revision": "4344b06a03b3e38990042df1f3acc81d",
     "url": "/katianastudios/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/katianastudios/static/css/2.616d3657.chunk.css"
   },
   {
-    "revision": "9fb32fa446f70cc5afca",
+    "revision": "62dda10055618a607178",
     "url": "/katianastudios/static/css/main.764ac2ce.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/katianastudios/static/js/2.890f9c85.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9fb32fa446f70cc5afca",
-    "url": "/katianastudios/static/js/main.36ff47ec.chunk.js"
+    "revision": "62dda10055618a607178",
+    "url": "/katianastudios/static/js/main.6929a2ed.chunk.js"
   },
   {
     "revision": "a24fff75b46bdcbbfc64",
