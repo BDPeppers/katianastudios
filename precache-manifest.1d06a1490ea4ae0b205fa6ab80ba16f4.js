@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4344b06a03b3e38990042df1f3acc81d",
+    "revision": "7e997d466734279eb02f077c1b2638ad",
     "url": "/katianastudios/index.html"
   },
   {
-    "revision": "84279a8173f949c71cfe",
+    "revision": "25a81c555ed9ab3fe241",
     "url": "/katianastudios/static/css/2.616d3657.chunk.css"
   },
   {
-    "revision": "62dda10055618a607178",
-    "url": "/katianastudios/static/css/main.764ac2ce.chunk.css"
+    "revision": "f56de5fff181439c2468",
+    "url": "/katianastudios/static/css/main.d2b2309d.chunk.css"
   },
   {
-    "revision": "84279a8173f949c71cfe",
-    "url": "/katianastudios/static/js/2.890f9c85.chunk.js"
+    "revision": "25a81c555ed9ab3fe241",
+    "url": "/katianastudios/static/js/2.553ee35e.chunk.js"
   },
   {
     "revision": "6a413fbe6ac0a3bffb10654948246cdf",
-    "url": "/katianastudios/static/js/2.890f9c85.chunk.js.LICENSE.txt"
+    "url": "/katianastudios/static/js/2.553ee35e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "62dda10055618a607178",
-    "url": "/katianastudios/static/js/main.6929a2ed.chunk.js"
+    "revision": "f56de5fff181439c2468",
+    "url": "/katianastudios/static/js/main.9652ed4c.chunk.js"
   },
   {
     "revision": "a24fff75b46bdcbbfc64",
@@ -98,5 +98,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ec763292e583294612f124c0b0def500",
     "url": "/katianastudios/static/media/fa-solid-900.ec763292.svg"
+  },
+  {
+    "revision": "16304cba87e1d339b29ca1ea932d16af",
+    "url": "/katianastudios/static/media/smile.16304cba.PNG"
   }
 ]);

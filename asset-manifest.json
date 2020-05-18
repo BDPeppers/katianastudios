@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/katianastudios/static/css/main.764ac2ce.chunk.css",
-    "main.js": "/katianastudios/static/js/main.6929a2ed.chunk.js",
-    "main.js.map": "/katianastudios/static/js/main.6929a2ed.chunk.js.map",
+    "main.css": "/katianastudios/static/css/main.d2b2309d.chunk.css",
+    "main.js": "/katianastudios/static/js/main.9652ed4c.chunk.js",
+    "main.js.map": "/katianastudios/static/js/main.9652ed4c.chunk.js.map",
     "runtime-main.js": "/katianastudios/static/js/runtime-main.6c248946.js",
     "runtime-main.js.map": "/katianastudios/static/js/runtime-main.6c248946.js.map",
     "static/css/2.616d3657.chunk.css": "/katianastudios/static/css/2.616d3657.chunk.css",
-    "static/js/2.890f9c85.chunk.js": "/katianastudios/static/js/2.890f9c85.chunk.js",
-    "static/js/2.890f9c85.chunk.js.map": "/katianastudios/static/js/2.890f9c85.chunk.js.map",
+    "static/js/2.553ee35e.chunk.js": "/katianastudios/static/js/2.553ee35e.chunk.js",
+    "static/js/2.553ee35e.chunk.js.map": "/katianastudios/static/js/2.553ee35e.chunk.js.map",
     "index.html": "/katianastudios/index.html",
-    "precache-manifest.f8c2874ef451f0511d78da4a3a5a6d79.js": "/katianastudios/precache-manifest.f8c2874ef451f0511d78da4a3a5a6d79.js",
+    "precache-manifest.1d06a1490ea4ae0b205fa6ab80ba16f4.js": "/katianastudios/precache-manifest.1d06a1490ea4ae0b205fa6ab80ba16f4.js",
     "service-worker.js": "/katianastudios/service-worker.js",
     "static/css/2.616d3657.chunk.css.map": "/katianastudios/static/css/2.616d3657.chunk.css.map",
-    "static/css/main.764ac2ce.chunk.css.map": "/katianastudios/static/css/main.764ac2ce.chunk.css.map",
-    "static/js/2.890f9c85.chunk.js.LICENSE.txt": "/katianastudios/static/js/2.890f9c85.chunk.js.LICENSE.txt",
+    "static/css/main.d2b2309d.chunk.css.map": "/katianastudios/static/css/main.d2b2309d.chunk.css.map",
+    "static/js/2.553ee35e.chunk.js.LICENSE.txt": "/katianastudios/static/js/2.553ee35e.chunk.js.LICENSE.txt",
     "static/media/mdb.css": "/katianastudios/static/media/arrow_right.8ef6a08c.svg",
     "static/media/blush.PNG": "/katianastudios/static/media/blush.cd84e77f.PNG",
-    "static/media/all.min.css": "/katianastudios/static/media/fa-solid-900.ec763292.svg"
+    "static/media/all.min.css": "/katianastudios/static/media/fa-solid-900.ec763292.svg",
+    "static/media/smile.PNG": "/katianastudios/static/media/smile.16304cba.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.6c248946.js",
     "static/css/2.616d3657.chunk.css",
-    "static/js/2.890f9c85.chunk.js",
-    "static/css/main.764ac2ce.chunk.css",
-    "static/js/main.6929a2ed.chunk.js"
+    "static/js/2.553ee35e.chunk.js",
+    "static/css/main.d2b2309d.chunk.css",
+    "static/js/main.9652ed4c.chunk.js"
   ]
 }
