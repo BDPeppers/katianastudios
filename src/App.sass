@@ -1,0 +1,77 @@
+//Variables
+$light-pink: #faece6
+$light-green: #95d2ba
+$light-yellow: #fdd982
+$dark-pink: #991e5c
+$yellow: #b1985b
+$green: #1e2a25
+
+
+*
+  background-color: $light-pink
+  font-size: 62.5%
+  margin: 0
+  padding: 0
+  font-family: 'Caveat', cursive
+
+
+
+//Nav Bar
+nav.navbar
+  min-height: 10vh
+  background-color: $light-yellow !important
+  border-bottom: white solid .1rem
+  width: 100vw
+  div.navbar-brand  
+    background-color: $light-yellow !important  
+    .home-text
+      font-size: 4.5vh
+      background-color: $light-yellow !important
+      height: 100%
+      color: $yellow !important
+      padding-left: 2rem
+  div.collapse
+    background-color: $light-yellow !important
+  ul.navbar-nav
+    background-color: $light-yellow !important
+    width: 100%
+    justify-content: space-evenly
+    li
+      background-color: $light-yellow !important
+      a
+        font-size: 3.5vh
+        color: $yellow !important
+
+span.navbar-toggler-icon
+  width: 5vh
+  height: 4vh
+  background-color: $yellow
+  
+
+//Landing Page
+div.landing
+  height: 90vh
+  display: flex
+  flex-direction: column
+  width: 75vw
+  align-items: center
+  margin: auto
+  div.imgbox
+    padding-top: 5rem
+    max-width: 100rem
+    max-height: 65vh
+    img
+      height: 100%
+      width: 100%
+    
+  div.shadow
+    height: 2rem
+    max-width: 50rem
+    width: 45vw
+    background-color: darken($light-pink, 75%)
+    border-radius: 100%
+  h1.kstudios
+    margin-top: 2rem
+    font-size: 8vh
+    text-align: center
+    color: $dark-pink
